@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialSpinner</string>
+    <string name="facebook">Facebook</string>
+    <string name="android">Android</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="twitter">Twitter</string>
+    <string name="whatsapp">Whatsapp</string>
+</resources>
